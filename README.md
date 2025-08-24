@@ -80,6 +80,8 @@ Manage command entries
 }
 ```
 
+![alt text](https://github.com/abdelouahedlabrigui/resource-bookmarks/blob/nodejs_backend/imgs/commands.png?raw=true)
+
 ### Code Snippets
 Manage code snippets
 
@@ -100,7 +102,7 @@ Manage code snippets
   "CREATED": ""
 }
 ```
-![alt text](https://github.com/abdelouahedlabrigui/resource-bookmarks/blob/nodejs_backend/imgs/Document.png?raw=true)
+![alt text](https://github.com/abdelouahedlabrigui/resource-bookmarks/blob/nodejs_backend/imgs/codes.png?raw=true)
 
 ### Marks
 Manage document marks
@@ -123,6 +125,7 @@ Manage document marks
   "CREATED": ""
 }
 ```
+![alt text](https://github.com/abdelouahedlabrigui/resource-bookmarks/blob/nodejs_backend/imgs/marks.png?raw=true)
 
 ### Documents
 Manage documents
@@ -144,6 +147,7 @@ Manage documents
   "CREATED": ""
 }
 ```
+![alt text](https://github.com/abdelouahedlabrigui/resource-bookmarks/blob/nodejs_backend/imgs/Document.png?raw=true)
 
 ### Concepts
 Manage concepts
@@ -167,6 +171,7 @@ Manage concepts
   "CREATED": ""
 }
 ```
+![alt text](https://github.com/abdelouahedlabrigui/resource-bookmarks/blob/nodejs_backend/imgs/concepts.png?raw=true)
 
 ## Usage
 1. Set up your Oracle SQL database with the provided schema
