@@ -100,7 +100,7 @@ Manage code snippets
   "CREATED": ""
 }
 ```
-![alt text](https://github.com/abdelouahedlabrigui/resource-bookmarks/blob/nodejs_backend/Document.png?raw=true)
+![alt text](https://github.com/abdelouahedlabrigui/resource-bookmarks/blob/nodejs_backend/imgs/Document.png?raw=true)
 
 ### Marks
 Manage document marks
